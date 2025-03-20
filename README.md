@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Nishikant, a student passionate about web development. I specialize in frontened development and am currently diving into Data Structure & Algorithms(DSA) and backened development to become a full-stack developer.<br>What I Do:<br>Frontened: HTML, CSS, Javascript, React<br>Learning: DSA & Backend(Node.js, Express,MongoDB)<br>Building: Cool project and solving coding challenges<br><br>Ask Me About: <br>Any fun project ideas or collaborations!<br><br>Fun Fact:<br>Did you know? The first-ever website, built by Tim Berners-Lee in 1991, is still online! you can check it out  info.cern.ch<br><br><br>Let's code together
+I'm Nishikant, a student passionate about web development. I specialize in frontened development and am currently diving into Data Structure & Algorithms(DSA) and backened development to become a full-stack developer.<br>What I Do:<br>Frontened: HTML, CSS, Javascript, React<br>Learning: DSA & Backend(Node.js, Express,MongoDB)<br>Building: Cool project and solving coding challenges<br><br>Ask Me About: <br>Any fun project ideas or collaborations!<br><br>Fun Fact:<br>Did you know? The first-ever website, built by Tim Berners-Lee in 1991, is still online! you can check it out at <a>info.cern.ch</a><br><br><br>Let's code together
 
 
 ## 🌐 Socials:
