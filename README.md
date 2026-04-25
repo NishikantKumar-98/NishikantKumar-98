@@ -76,8 +76,8 @@ Completing intensive full-stack training covering HTML, CSS, JavaScript, React, 
 ### 📌 Smart Issue Board
 > Real-time issue tracking system with auth, workflows & smart detection
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yourusername/smart-issue-board)
-[![Live](https://img.shields.io/badge/Live_Demo-Visit-4CAF50?style=flat-square&logo=vercel)](https://your-live-link.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/NishikantKumar-98/smart_issue_board)
+[![Live](https://img.shields.io/badge/Live_Demo-Visit-4CAF50?style=flat-square&logo=vercel)](https://smart-issue-board-iota.vercel.app)
 
 `React.js` `Firebase Auth` `Firestore` `Tailwind CSS`
 
@@ -91,8 +91,8 @@ Completing intensive full-stack training covering HTML, CSS, JavaScript, React, 
 ### 📌 AI Resume Builder
 > Full-stack app powered by Google Gemini API for AI-assisted resume generation
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yourusername/ai-resume-builder)
-[![Live](https://img.shields.io/badge/Live_Demo-Visit-4CAF50?style=flat-square&logo=vercel)](https://your-live-link.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/NishikantKumar-98/AI_RESUME_BUILDER)
+[![Live](https://img.shields.io/badge/Live_Demo-Visit-4CAF50?style=flat-square&logo=vercel)](https://ai-resume-builder-navy-xi.vercel.app)
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT` `Vercel`
 
@@ -105,7 +105,6 @@ Completing intensive full-stack training covering HTML, CSS, JavaScript, React, 
 ### 📌 Transly — Multilingual AI Translation System *(SIH 2025)*
 > AI platform for Nepali & Sinhala → English translation with OCR, STT & TTS
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yourusername/transly)
 
 `FastAPI` `React.js` `OCR` `Speech-to-Text` `Text-to-Speech` `NLP`
 
@@ -145,12 +144,12 @@ Completing intensive full-stack training covering HTML, CSS, JavaScript, React, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NishikantKumar-98&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishikantKumar-98&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NishikantKumar-98&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
 </div>
 
 ---
@@ -163,10 +162,9 @@ If you're a recruiter or a developer — feel free to reach out. I'm available f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishikant-kumar-6791b4243)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishikantkumar9871@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Y372cVh_Rc0qRtwj5dgz5iY2RNcViLDS/view?usp=sharing)
+
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" />
-</div>
+
