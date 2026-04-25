@@ -1,58 +1,172 @@
-# 🚀 Nishikant | Full-Stack Developer in Progress  
+<div align="center">
 
-### 👋 About Me  
-I’m **Nishikant**, a B.Tech CSE student passionate about building **full-stack projects** and actively exploring **hackathons**.  
-Currently diving deep into **MERN Stack Development** and sharpening my **DSA skills** 🚀.  
+```
+███╗   ██╗██╗███████╗██╗  ██╗██╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
+████╗  ██║██║██╔════╝██║  ██║██║██║ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝
+██╔██╗ ██║██║███████╗███████║██║█████╔╝ ███████║██╔██╗ ██║   ██║   
+██║╚██╗██║██║╚════██║██╔══██║██║██╔═██╗ ██╔══██║██║╚██╗██║   ██║   
+██║ ╚████║██║███████║██║  ██║██║██║  ██╗██║  ██║██║ ╚████║   ██║   
+╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  
+```
 
----
+</div>
 
-### 🛠️ What I Do  
-- **Frontend:** HTML | CSS | JavaScript | React  
-- **Learning:** DSA | Node.js | Express.js | MongoDB  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Smart+India+Hackathon+2025+Finalist;Building+real+things+%E2%80%94+not+just+tutorials;Open+to+contribute" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-### 💻 Projects & Highlights  
-- 🔹 **Asset Management System** for **Airport Authority of India** ✈️  
-- 🔹 **CyberPharma** – Hackathon project 💊  
-- 🔹 More exciting MERN projects on the way...  
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishikant-kumar-6791b4243)
+[![Email](https://img.shields.io/badge/Gmail-nishikantkumar9871%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishikantkumar9871@gmail.com)
+![Location](https://img.shields.io/badge/📍_Delhi,_India-open_to_remote-4CAF50?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square)
 
-### 🌱 Current Focus  
-- Building **Full-Stack MERN Projects**  
-- Participating in **Hackathons**  
-- Growing strong in **DSA & Backend Development**  
-
----
-
-### 🤝 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/nishikant-kumar-6791b4243)  
+</div>
 
 ---
 
-✨ *Always curious to learn, build, and collaborate on impactful projects.*  
+## ⚡ Quick Snapshot
 
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishikant-kumar-6791b4243) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishikantkumar9871@gmail.com) 
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
+```yaml
+name         : Nishikant Kumar
+role         : Full-Stack Developer (MERN)
+education    : B.Tech CSE @ Jagannath University (2022 – 2026)
+experience   : Airports Authority of India  |  QSpiders
+achievements : SIH 2025 Finalist  |  1st Rank – National Technology Day
+looking_for  : SDE Internship / Full-Time
+```
 
 ---
 
+## 🧑‍💻 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NishikantKumar-98&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NishikantKumar-98&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishikantKumar-98&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm a final-year B.Tech CSE student from Delhi who started building web apps in my first year — and just never stopped. I like working on things that actually ship and get used by real people.
+
+My strongest area is **full-stack development with the MERN stack**. I've built production systems, led a hackathon team to a national-level final, and interned at a government organization where I wrote code that went into actual deployment. I take architecture decisions seriously — modular backends, clean APIs, proper auth flows.
+
+Outside work, I'm grinding DSA and exploring AI integrations in web apps. Currently looking for my next role where I can contribute meaningfully from day one.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NishikantKumar-98&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏢 Work Experience
 
+### 🔹 Airports Authority of India — Software Development Intern
+`July 2025 – August 2025` &nbsp;·&nbsp; Delhi, India
+
+Built a **full-stack Asset Management System** from scratch using React.js, Node.js, Express.js, and MongoDB. Implemented secure RESTful APIs with **JWT-based authentication** and **role-based access control (RBAC)**. Worked in a real Agile environment with Git-based code reviews — not a college project, actual production-bound code.
+
+**Stack used:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Git`
+
+---
+
+### 🔹 QSpiders — Java Full Stack Development Intern
+`February 2026 – Present` &nbsp;·&nbsp; Gurgaon, Delhi NCR
+
+Completing intensive full-stack training covering HTML, CSS, JavaScript, React, Node.js, and SQL. Built dynamic and responsive web applications with a focus on clean frontend architecture and solid backend fundamentals.
+
+**Stack used:** `HTML` `CSS` `JavaScript` `React` `Node.js` `SQL`
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Smart Issue Board
+> Real-time issue tracking system with auth, workflows & smart detection
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yourusername/smart-issue-board)
+[![Live](https://img.shields.io/badge/Live_Demo-Visit-4CAF50?style=flat-square&logo=vercel)](https://your-live-link.vercel.app)
+
+`React.js` `Firebase Auth` `Firestore` `Tailwind CSS`
+
+- Production-ready issue tracker with defined status workflows and real-time updates via Firestore
+- Priority-based sorting and advanced keyword filtering built into the UI
+- **Standout feature:** keyword-based similar issue detection that surfaces related issues *as you type*, before submission
+- Full Firebase user authentication with protected routes
+
+---
+
+### 📌 AI Resume Builder
+> Full-stack app powered by Google Gemini API for AI-assisted resume generation
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yourusername/ai-resume-builder)
+[![Live](https://img.shields.io/badge/Live_Demo-Visit-4CAF50?style=flat-square&logo=vercel)](https://your-live-link.vercel.app)
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT` `Vercel`
+
+- Full MERN stack application that generates personalized resumes using the Google Gemini API
+- Designed a **modular backend** — AI providers can be swapped or extended without restructuring the whole system
+- JWT-based auth flow and scalable REST API design; deployed on Vercel
+
+---
+
+### 📌 Transly — Multilingual AI Translation System *(SIH 2025)*
+> AI platform for Nepali & Sinhala → English translation with OCR, STT & TTS
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yourusername/transly)
+
+`FastAPI` `React.js` `OCR` `Speech-to-Text` `Text-to-Speech` `NLP`
+
+- Built for Smart India Hackathon 2025 — tackled the translation of **low-resource languages** (Nepali, Sinhala) into English
+- Integrated OCR, language detection, STT, and TTS pipelines into one unified platform
+- **Led a team of 6** from problem statement to national-level final demo
+- Owned both the FastAPI backend services and portions of the React frontend
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript (ES6+), Java, Python (basics), HTML5, CSS3 |
+| **Frontend** | React.js, Tailwind CSS, React Hooks, Context API |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT, RBAC |
+| **Databases** | MongoDB, Oracle SQL |
+| **AI / Integrations** | Google Gemini API, Hugging Face, FastAPI, OCR, STT/TTS |
+| **Tools & Platforms** | Git, GitHub, Postman, Figma, Vercel, VS Code |
+
+---
+
+## 🏆 Achievements & Certifications
+
+| 🏅 | Achievement |
+|---|---|
+| 🥇 | **1st Rank** — National Technology Day, Jagannath University *(Cyber Pharma Web App)* |
+| 🏆 | **Finalist & Team Leader** — Smart India Hackathon 2025 (national-level competition) |
+
+**Certifications (SWAYAM / NPTEL):**
+- Fundamentals of Object-Oriented Programming
+- Introduction to Programming in C
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
+</div>
+
+---
+
+## 💬 Let's Talk
+
+If you're a recruiter or a developer — feel free to reach out. I'm available for **SDE internships and full-time roles**, based in Delhi, open to remote and relocation.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishikant-kumar-6791b4243)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishikantkumar9871@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" />
+</div>
